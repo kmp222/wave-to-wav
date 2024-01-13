@@ -1,4 +1,4 @@
-# sine oscillator
+# Sine Oscillator
 
 ## Overview
 
