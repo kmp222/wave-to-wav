@@ -52,7 +52,7 @@ int main() {
     audio_file.seekp(pre_audio_pos - 4); // torno al secondo placeholder e sostituisco
     write_to_file(audio_file, post_audio_pos - pre_audio_pos, 4);
 
-    audio_file.seekp(4, std::ios::beg); // torno all'inizio e mi sposto di 4 byte
+    audio_file.seekp(4, std::ios::beg); // torno all'inizio e mi sposto di 4 byte per sostituire primo placeholder
     write_to_file(audio_file, post_audio_pos - 8, 4);
 
 
