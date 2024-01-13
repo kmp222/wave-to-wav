@@ -8,3 +8,6 @@ This project is a simple sine oscillator implemented in C++, allowing users to g
 
 - **Adjustable Parameters:** Control the frequency, amplitude, and duration of the sine wave.
 - **WAV File Output:** Save the generated sine wave as a WAV file for further use.
+
+### Credits
+Akash Murthy ([YouTube](https://www.youtube.com/watch?v=qqjvB_VxMRM))
